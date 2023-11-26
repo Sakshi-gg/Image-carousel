@@ -1,0 +1,56 @@
+.main{
+  
+ background-size: cover;
+ background-repeat: no-repeat;
+  background-image: url(https://th.bing.com/th/id/OIP.yc7Xumnz--J85iIQKFY6BwHaEo?pid=ImgDet&rs=1)
+  
+}
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+  .title{
+    font-family: 'Kenia', sans-serif;
+    font-size: 50px;
+    color: white;
+    margin-top: 0px;
+    margin-left: 500px;
+  }
+  .btn{
+     margin: 10px;
+    border-radius: 5px;
+    text-shadow: 5px 15px 10px red;
+    font-size: 50px;
+    margin: auto auto;
+    margin-left: 500px;
+    width: 100px;
+    display: flex;
+    gap: 435px;
+    margin-top: 20px;
+    
+    
+
+  }
+  .img{
+    margin: auto auto;
+    margin-left: 500px;
+  }
+
+  .foot{
+    background-color: transparent;
+    margin-left: 100px;
+    display: flex;
+    color: white;
+    margin-top: 50px;
+    gap: 25px;
+       
+  }
+  .t{
+    color:white;
+    margin-left: 100px;
+    margin-top: 150px;
+    
+  }
+
+  
+  
+  
